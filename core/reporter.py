@@ -20,4 +20,6 @@ class Reporter:
         return self.__data
     def toExcel(self):
         return self.__data
+    def screenShot(self):
+        pass
 
